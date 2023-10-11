@@ -107,7 +107,8 @@ if __name__ == "__main__":
             quit()
 
 
-        #### Not Working, function sendEmail ##### 
+            
+        #### Not Working, function sendEmail Add issue on github. ##### 
         # elif 'email to john' in query:
         #     try:
         #         speak("What should I say? ")
